@@ -2,6 +2,10 @@ body {
     background: #CCCCCC
 }
 
+#imagem1 {
+    width: 99%;
+}
+
 h1{
    text-align: center
 }

@@ -3,8 +3,13 @@ body {
 }
 
 #imagem1 {
+<<<<<<< HEAD
+    width: 90px;
+   height: 50%;
+=======
     width: 3000px;
    height:99%;
+>>>>>>> 8e2ab88c7fda14f1a15f5beeaa1a5e3d5f8e3a28
 }
 
 h1{
